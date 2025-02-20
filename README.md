@@ -28,4 +28,4 @@ Diante disso, você deve desenvolver um projeto java, com os seguintes requisito
     3.11 – Imprimir o total dos salários dos funcionários.
     3.12 – Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.
 
-<img src="(https://github.com/gabbilopez/desafio_crud_Iniflex/blob/main/2025-02-20%2017_53_12-Gupy.png)">
+![2025-02-20 17_53_12-Gupy](https://github.com/user-attachments/assets/640407a7-bec0-4d7f-90e9-21f2dd303bbe)

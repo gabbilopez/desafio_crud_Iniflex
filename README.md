@@ -2,7 +2,7 @@
 Teste Prático de programação Java para vaga na Iniflex
 
 
-TESTE PRÁTICO PROGRAMAÇÃO.
+TESTE PRÁTICO PROGRAMAÇÃO:
 
 Considerando que uma indústria possui as pessoas/funcionários abaixo:
 
